@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="gestion_productos">GESTION PRODUCTOS</string>
+    <string name="crear_producto">CREAR PRODUCTO</string>
+    <string name="modificar_producto">MODIFICAR PRODUCTO</string>
+    <string name="consultar_producto">CONSULTAR PRODUCTO</string>
+    <string name="eliminar_producto">ELIMINAR PRODUCTO</string>
+    <string name="creacion_de_productos">CREACION DE PRODUCTOS</string>
+    <string name="codigo_de_producto">Codigo de producto</string>
+    <string name="nombre_de_producto">Nombre de producto</string>
+    <string name="precio_de_producto">Precio de producto</string>
+    <string name="actualizacion_de_producto">ACTUALIZACION DE PRODUCTO</string>
+    <string name="actualizar">ACTUALIZAR</string>
+    <string name="volver">Volver</string>
+    <string name="producto_a_eliminar">PRODUCTO A ELIMINAR</string>
+    <string name="buscar_codigo">Buscar codigo</string>
+    <string name="buscar_producto">BUSCAR PRODUCTO</string>
+    <string name="buscar">BUSCAR</string>
+    <string name="busque_el_codigo">Busque el codigo</string>
+</resources>
